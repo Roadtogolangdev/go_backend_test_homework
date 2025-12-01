@@ -11,3 +11,5 @@ func Add(a, b int) int {
 func main() {
 	fmt.Println("Я домашка")
 }
+
+// Ну что, привет! Ты хорошо идешь!
